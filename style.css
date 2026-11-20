@@ -55,7 +55,7 @@ header {
 }
 
 .navbar a:hover {
-    color: skyblue;
+    color: rgb(0, 26, 255);
 }
 
 
@@ -210,11 +210,11 @@ section {
 
 .skill-card:hover {
     transform: translateY(-8px);
-    border-color: #a855f7;
+    box-shadow: 0 0 20px #0041f3;;
 }
 
 .skill-card h3 {
-    color: #00e5ff;
+    color: #8c00ff;
     margin-bottom: 10px;
 }
 
