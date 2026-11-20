@@ -2,7 +2,7 @@
 /* GENERAL SETTINGS */
 * {
     margin: 0;
-    padding: 0;
+    padding: 24x;
     box-sizing: border-box;
     scroll-behavior: smooth;
     font-family: 'Segoe UI', sans-serif;
@@ -258,13 +258,13 @@ section {
 
 .project-card:hover {
     transform: translateY(-10px);
-    box-shadow: 0 0 20px #6524a5;
+    box-shadow: 0 0 20px #222baa;
 }
 
 .project-icon {
     font-size: 40px;
     font-weight: bold;
-    color: #a855f7;
+    color: #559bf7;
     margin-bottom: 20px;
 }
 
